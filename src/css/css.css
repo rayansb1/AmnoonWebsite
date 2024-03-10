@@ -305,7 +305,7 @@ cite {
   top: 0;
   left: 0;
   width: 200%; /* Set to twice the width of the container */
-  animation: slide 20s infinite linear;
+  animation: slide 25s infinite linear;
 }
 
 .image-container img {
@@ -339,7 +339,7 @@ cite {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-50%);
+    transform: translateX(-140%);
   }
 }
 
@@ -660,7 +660,7 @@ cite {
   top: 0;
   left: 0;
   width: 200%; /* Set to twice the width of the container */
-  animation: slide 20s infinite linear;
+  animation: slide 25s infinite linear;
 }
 
 .image-container img {
@@ -1013,6 +1013,7 @@ section {
 
 	.footer-distributed .footer-center i{
 		margin-left: 0;
+    text-align: center;
 	}
 
 }
