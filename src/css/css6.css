@@ -1,6 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,200italic);
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+*{
+  font-family: 'Droid Arabic Kufi';
+}
+
 body {
-  font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
 }
 

@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+*{
+  font-family: 'Droid Arabic Kufi';
+}
 .header-outer{
 	background: linear-gradient(#ffffff,#ffffff,#ffffff);
 	box-shadow: 2px 0.5px 15px black;
@@ -27,22 +31,22 @@
 	  padding:3%;
 	  width:20%;
 	  &:nth-child(1) {
-		background-color:rgb(21, 32, 95);
+		background-color:rgba(21, 32, 95, 0);
 		color: white;
 		box-shadow: 2px 0.5px 4px black;
 	  }
 	  &:nth-child(2) {
-		background-color:rgb(21, 32, 95);
+		background-color:rgba(21, 32, 95, 0);
 		color: white;
 		box-shadow: 2px 0.5px 4px black;
 	  }
 	  &:nth-child(3) {
-		background-color:rgb(21, 32, 95);
+		background-color:rgba(21, 32, 95, 0);
 		color: white;
 		box-shadow: 2px 0.5px 4px black;
 	  }
 	  &:nth-child(4) {
-		background-color:rgb(21, 32, 95);
+		background-color:rgba(21, 32, 95, 0);
 		color: white;
 		box-shadow: 2px 0.5px 4px black;
 	  }
